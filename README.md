@@ -1,2 +1,2 @@
-# N141
-projeto FECIP
+# Projeto ChatBot
+Nosso projeto para FECIP do semestre
